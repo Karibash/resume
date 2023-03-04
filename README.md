@@ -7,6 +7,7 @@
 | Name    | Yuki Karibayashi                          |
 | Twitter | [@karibash](https://twitter.com/karibash) |
 | GitHub  | [@karibash](https://github.com/karibash)  |
+| Zenn    | [@karibash](https://zenn.dev/karibash)    |
 
 ### 強み
 
